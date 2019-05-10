@@ -1,0 +1,4 @@
+com\docshifter\CalculatorSpringBoot.class
+com\docshifter\model\OperationModel.class
+com\docshifter\service\CalculateSimple.class
+com\docshifter\controllers\CalculatorController.class
